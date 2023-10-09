@@ -10,15 +10,17 @@ Este repositório foi estruturado para simplificar a navegação, portanto eu op
 
 Nesta etapa em especifico iremos nos aprofundar em Java Full Stack, APis e afins.
 
-- **/Atividade (Priorização de Testes):** .
-- **/Atividade Complementar API Serverest:** .
-- **/Atividade Final:** .
+Confira aqui a descrição do conteúdo das pastas.
+
+- **/Documentação/Mapa Mental:** Aqui você encontrará representações gráficas de informações, ideias, conceitos ou tarefas interconectadas, todas organizadas a partir de um ponto central. O objetivo principal é facilitar a visualização e a compreensão do conjunto de informações de forma mais clara e organizada. Isso é alcançado através da criação de uma estrutura ramificada que utiliza cores, imagens, palavras-chave e linhas para conectar e hierarquizar conceitos, tornando mais fácil para se compreender as relações entre as informações.
+
+- **/Documentação/Plano de Testes:** Aqui você encontrará um documento que descreve a estratégia, abordagem e os detalhes de execução dos testes que serão realizados em no software ServeRest. O objetivo principal é garantir que o sistema funcione conforme o esperado, seja confiável, seguro e livre de defeitos antes de ser disponibilizado para uso ou implantação. Esse documento é uma parte fundamental do ciclo de desenvolvimento de software e é essencial para garantir a qualidade do produto final.
 
 ## 🛠️ Ferramentas Empregadas
 
-- **Postman**: Postman é uma plataforma de API para desenvolvedores. A empresa está sediada em San Francisco e mantém um escritório em Bangalore, onde foi fundada. Confira mais informações sobre essa linguagem de programação [aqui](https://www.postman.com/).
+- **Postman**: Postman é uma plataforma de desenvolvimento de APIs que oferece um ambiente para criar, testar e documentar APIs (Application Programming Interfaces). Seu objetivo principal é simplificar o processo de desenvolvimento, teste e colaboração em torno de APIs. Confira mais informações sobre o Postman [aqui](https://www.postman.com/).
 
-- **Swagger**: Swagger é um conjunto de ferramentas para desenvolvedores de API da SmartBear Software e uma especificação anterior na qual a especificação OpenAPI é baseada. Confira mais informações sobre o Siteprism [aqui](https://swagger.io/).
+- **Swagger**: Swagger é um conjunto de ferramentas para desenvolvedores de API da SmartBear Software e uma especificação anterior na qual a especificação OpenAPI é baseada. Confira mais informações sobre o Swagger [aqui](https://swagger.io/).
 
 ## 🔗 Pré-Requisitos
 
