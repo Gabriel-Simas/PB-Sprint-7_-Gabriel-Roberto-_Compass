@@ -62,8 +62,6 @@ Os objetivos dos testes da Sprint 2 são os seguintes:
 
 - **Melhoria Contínua**: Propor sugestões de melhorias para a funcionalidade com base na análise de testes.
 
-Vamos definir a estratégia de testes para a Sprint 2, conforme mencionado no plano de testes:
-
 ## 3. Estratégia de Testes
 
 A estratégia de testes para a Sprint 2 é projetada para abordar de forma eficaz a funcionalidade de cadastro de vendedores (usuários) em um Marketplace. A estratégia inclui os seguintes elementos:
