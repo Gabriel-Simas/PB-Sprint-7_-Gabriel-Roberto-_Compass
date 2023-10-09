@@ -32,8 +32,6 @@ Nesta Sprint, o objetivo é garantir a qualidade da funcionalidade de cadastro d
 ### 1.2 Abreviações
 - **CRUD**: Create, Read, Update, Delete.
 
-Claro, vou definir o escopo e o objetivo para a Sprint 2, conforme solicitado no plano de testes:
-
 ## 2. Definição de Escopo e Objetivos
 
 ### 2.1 Escopo
@@ -174,9 +172,6 @@ A automação desses casos de teste pode trazer benefícios significativos, como
 - **Descrição**: O Postman é uma ferramenta de colaboração para testar, desenvolver e documentar APIs. Ele permite criar solicitações HTTP personalizadas, automatizar testes e validar respostas de API.
 - **Uso na Sprint 2**: O Postman será usado para mapear os cenários de teste, criar solicitações para a API em questão, executar testes manuais e validar as respostas da API. Também é útil para a automação de testes de API, se aplicável.
 O Postman é uma escolha popular para testes de API devido à sua facilidade de uso, capacidade de automação e recursos de documentação. Ele desempenhará um papel fundamental na validação da funcionalidade da API durante a Sprint 2.
-
-## 7. Prioridades
-Definir prioridades é essencial para direcionar os esforços de teste para áreas críticas ou de alto risco do sistema. Aqui estão as prioridades definidas para os casos de teste na Sprint 2:
 
 ## 7. Prioridades
 
