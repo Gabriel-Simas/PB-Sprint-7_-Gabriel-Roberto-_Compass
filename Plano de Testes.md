@@ -1,6 +1,6 @@
 # Plano de Testes - Sprint 2: Mergulhando em Testes de APIs
 
-**link para download**: 
+**link para download**: https://drive.google.com/file/d/1qm6pD50HVveAGSNsQ6x7iJ2BbGbIv_7f/view?usp=sharing
 
 **Autor**: Gabriel Simas Roberto da Silva
 
